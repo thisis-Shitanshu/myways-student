@@ -1,0 +1,167 @@
+[
+    {
+        "assesmentType": "flexibilityOfClosure",
+        "questions": []
+    },
+    {
+        "assesmentType": "informationOrdering",
+        "questions": []
+    },
+    {
+        "assesmentType": "visualization",
+        "questions": []
+    },
+    {
+        "assesmentType": "spatialOrientation",
+        "questions": []
+    },
+    {
+        "assesmentType": "science",
+        "questions": []
+    },
+    {
+        "assesmentType": "deductiveReasoning",
+        "questions": []
+    },
+    {
+        "assesmentType": "inductiveReasoning",
+        "questions": []
+    },
+    {
+        "assesmentType": "problemSensitivity",
+        "questions": []
+    },
+    {
+        "assesmentType": "categoryFlexibility",
+        "questions": []
+    },
+    {
+        "assesmentType": "technical",
+        "questions": []
+    },
+    {
+        "assesmentType": "mathematicalReasoning",
+        "questions": [
+            {
+                "questionNumber": "1",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "2",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "3",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "4",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "5",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "6",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "7",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "8",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "9",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "10",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "11",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "12",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "13",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "14",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "15",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "16",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "17",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "18",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "19",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "20",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "21",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "22",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "23",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "24",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "25",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "26",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "27",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "28",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "29",
+                "answer": "a"
+            }
+        ]
+    },
+    {
+        "assesmentType": "writtenComprehension",
+        "questions": []
+    }
+]
