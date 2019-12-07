@@ -22,7 +22,7 @@ const loginValidation = (data) => {
         phone: Joi.string().min(0).max(10).required(),
         password: Joi.string().min(6).required()
     });
-
+    
     // Lets Validate
     return schema.validate(data); 
 };
