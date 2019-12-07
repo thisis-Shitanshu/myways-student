@@ -1,0 +1,8 @@
+module.exports = {
+    LOGIN: 'lOGIN',
+    LOGOUT: 'LOGOUT',
+    LOADING_UI: 'LOADING_UI',
+    UNLOADING_UI: 'LOADING_UI',
+    SET_ERRORS: 'SET_ERRORS',
+    UNSET_ERRORS: 'UNSET_ERRORS'
+ };
